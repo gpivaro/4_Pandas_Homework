@@ -1,6 +1,13 @@
 
 # Final Report for PyCitySchools Pandas Homework
 
+## District Summary
+
+
+|    |   Total Schools |   Total Students |   Total Budget |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
+|---:|----------------:|-----------------:|---------------:|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
+|  0 |              15 |            39170 |    2.46494e+07 |                78.99 |                   81.88 |            74.98 |               85.81 |               65.17 |
+
 
 ## School Summary
 
