@@ -8,3 +8,10 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+
+| School Type   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
+|:--------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
+| Charter       |              83.4739 |                 83.8964 |          93.62   |             96.5862 |             90.4313 |
+| District      |              76.9567 |                 80.9666 |          66.5486 |             80.7986 |             53.6714 |
