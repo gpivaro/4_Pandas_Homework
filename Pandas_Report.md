@@ -4,52 +4,51 @@
 ## District Summary
 
 
-|    |   Total Schools |   Total Students |   Total Budget |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
-|---:|----------------:|-----------------:|---------------:|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
-|  0 |              15 |            39170 |    2.46494e+07 |                78.99 |                   81.88 |            74.98 |               85.81 |               65.17 |
-
+||    |   Total Schools | Total Students   | Total Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
+|---:|----------------:|:-----------------|:---------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
+|  0 |              15 | 39,170           | $24,649,428.00 |                78.99 |                   81.88 |            74.98 |               85.81 |               65.17 |
 
 ## School Summary
 
-| school_name           | School Type   |   Total Students |   Total School Budget |   Per Student Budget |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
-|:----------------------|:--------------|-----------------:|----------------------:|---------------------:|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
-| Bailey High School    | ['District']  |             4976 |               3124928 |                  628 |              77.0484 |                 81.034  |            66.68 |               81.93 |               54.64 |
-| Cabrera High School   | ['Charter']   |             1858 |               1081356 |                  582 |              83.0619 |                 83.9758 |            94.13 |               97.04 |               91.33 |
-| Figueroa High School  | ['District']  |             2949 |               1884411 |                  639 |              76.7118 |                 81.158  |            65.99 |               80.74 |               53.2  |
-| Ford High School      | ['District']  |             2739 |               1763916 |                  644 |              77.1026 |                 80.7463 |            68.31 |               79.3  |               54.29 |
-| Griffin High School   | ['Charter']   |             1468 |                917500 |                  625 |              83.3515 |                 83.8168 |            93.39 |               97.14 |               90.6  |
-| Hernandez High School | ['District']  |             4635 |               3022020 |                  652 |              77.2898 |                 80.9344 |            66.75 |               80.86 |               53.53 |
-| Holden High School    | ['Charter']   |              427 |                248087 |                  581 |              83.8033 |                 83.815  |            92.51 |               96.25 |               89.23 |
-| Huang High School     | ['District']  |             2917 |               1910635 |                  655 |              76.6294 |                 81.1827 |            65.68 |               81.32 |               53.51 |
-| Johnson High School   | ['District']  |             4761 |               3094650 |                  650 |              77.0725 |                 80.9664 |            66.06 |               81.22 |               53.54 |
-| Pena High School      | ['Charter']   |              962 |                585858 |                  609 |              83.8399 |                 84.0447 |            94.59 |               95.95 |               90.54 |
-| Rodriguez High School | ['District']  |             3999 |               2547363 |                  637 |              76.8427 |                 80.7447 |            66.37 |               80.22 |               52.99 |
-| Shelton High School   | ['Charter']   |             1761 |               1056600 |                  600 |              83.3595 |                 83.7257 |            93.87 |               95.85 |               89.89 |
-| Thomas High School    | ['Charter']   |             1635 |               1043130 |                  638 |              83.4183 |                 83.8489 |            93.27 |               97.31 |               90.95 |
-| Wilson High School    | ['Charter']   |             2283 |               1319574 |                  578 |              83.2742 |                 83.9895 |            93.87 |               96.54 |               90.58 |
-| Wright High School    | ['Charter']   |             1800 |               1049400 |                  583 |              83.6822 |                 83.955  |            93.33 |               96.61 |               90.33 |
+| school_name           | School Type   | Total Students   | Total School Budget   | Per Student Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
+|:----------------------|:--------------|:-----------------|:----------------------|:---------------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
+| Bailey High School    | ['District']  | 4,976            | $3,124,928.00         | $628.00              |              77.0484 |                 81.034  |            66.68 |               81.93 |               54.64 |
+| Cabrera High School   | ['Charter']   | 1,858            | $1,081,356.00         | $582.00              |              83.0619 |                 83.9758 |            94.13 |               97.04 |               91.33 |
+| Figueroa High School  | ['District']  | 2,949            | $1,884,411.00         | $639.00              |              76.7118 |                 81.158  |            65.99 |               80.74 |               53.2  |
+| Ford High School      | ['District']  | 2,739            | $1,763,916.00         | $644.00              |              77.1026 |                 80.7463 |            68.31 |               79.3  |               54.29 |
+| Griffin High School   | ['Charter']   | 1,468            | $917,500.00           | $625.00              |              83.3515 |                 83.8168 |            93.39 |               97.14 |               90.6  |
+| Hernandez High School | ['District']  | 4,635            | $3,022,020.00         | $652.00              |              77.2898 |                 80.9344 |            66.75 |               80.86 |               53.53 |
+| Holden High School    | ['Charter']   | 427              | $248,087.00           | $581.00              |              83.8033 |                 83.815  |            92.51 |               96.25 |               89.23 |
+| Huang High School     | ['District']  | 2,917            | $1,910,635.00         | $655.00              |              76.6294 |                 81.1827 |            65.68 |               81.32 |               53.51 |
+| Johnson High School   | ['District']  | 4,761            | $3,094,650.00         | $650.00              |              77.0725 |                 80.9664 |            66.06 |               81.22 |               53.54 |
+| Pena High School      | ['Charter']   | 962              | $585,858.00           | $609.00              |              83.8399 |                 84.0447 |            94.59 |               95.95 |               90.54 |
+| Rodriguez High School | ['District']  | 3,999            | $2,547,363.00         | $637.00              |              76.8427 |                 80.7447 |            66.37 |               80.22 |               52.99 |
+| Shelton High School   | ['Charter']   | 1,761            | $1,056,600.00         | $600.00              |              83.3595 |                 83.7257 |            93.87 |               95.85 |               89.89 |
+| Thomas High School    | ['Charter']   | 1,635            | $1,043,130.00         | $638.00              |              83.4183 |                 83.8489 |            93.27 |               97.31 |               90.95 |
+| Wilson High School    | ['Charter']   | 2,283            | $1,319,574.00         | $578.00              |              83.2742 |                 83.9895 |            93.87 |               96.54 |               90.58 |
+| Wright High School    | ['Charter']   | 1,800            | $1,049,400.00         | $583.00              |              83.6822 |                 83.955  |            93.33 |               96.61 |               90.33 |
 
 
 ## Top Performing Schools (By % Overall Passing)
 
 
-| school_name         | School Type   |   Total Students |   Total School Budget |   Per Student Budget |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
-|:--------------------|:--------------|-----------------:|----------------------:|---------------------:|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
-| Cabrera High School | ['Charter']   |             1858 |               1081356 |                  582 |              83.0619 |                 83.9758 |            94.13 |               97.04 |               91.33 |
-| Thomas High School  | ['Charter']   |             1635 |               1043130 |                  638 |              83.4183 |                 83.8489 |            93.27 |               97.31 |               90.95 |
-| Griffin High School | ['Charter']   |             1468 |                917500 |                  625 |              83.3515 |                 83.8168 |            93.39 |               97.14 |               90.6  |
-| Wilson High School  | ['Charter']   |             2283 |               1319574 |                  578 |              83.2742 |                 83.9895 |            93.87 |               96.54 |               90.58 |
-| Pena High School    | ['Charter']   |              962 |                585858 |                  609 |              83.8399 |                 84.0447 |            94.59 |               95.95 |               90.54 |
+| school_name         | School Type   | Total Students   | Total School Budget   | Per Student Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
+|:--------------------|:--------------|:-----------------|:----------------------|:---------------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
+| Cabrera High School | ['Charter']   | 1,858            | $1,081,356.00         | $582.00              |              83.0619 |                 83.9758 |            94.13 |               97.04 |               91.33 |
+| Thomas High School  | ['Charter']   | 1,635            | $1,043,130.00         | $638.00              |              83.4183 |                 83.8489 |            93.27 |               97.31 |               90.95 |
+| Griffin High School | ['Charter']   | 1,468            | $917,500.00           | $625.00              |              83.3515 |                 83.8168 |            93.39 |               97.14 |               90.6  |
+| Wilson High School  | ['Charter']   | 2,283            | $1,319,574.00         | $578.00              |              83.2742 |                 83.9895 |            93.87 |               96.54 |               90.58 |
+| Pena High School    | ['Charter']   | 962              | $585,858.00           | $609.00              |              83.8399 |                 84.0447 |            94.59 |               95.95 |               90.54 |
 
 ## Bottom Performing Schools (By % Overall Passing)
 
-| school_name           | School Type   |   Total Students |   Total School Budget |   Per Student Budget |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
-|:----------------------|:--------------|-----------------:|----------------------:|---------------------:|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
-| Rodriguez High School | ['District']  |             3999 |               2547363 |                  637 |              76.8427 |                 80.7447 |            66.37 |               80.22 |               52.99 |
-| Figueroa High School  | ['District']  |             2949 |               1884411 |                  639 |              76.7118 |                 81.158  |            65.99 |               80.74 |               53.2  |
-| Huang High School     | ['District']  |             2917 |               1910635 |                  655 |              76.6294 |                 81.1827 |            65.68 |               81.32 |               53.51 |
-| Hernandez High School | ['District']  |             4635 |               3022020 |                  652 |              77.2898 |                 80.9344 |            66.75 |               80.86 |               53.53 |
-| Johnson High School   | ['District']  |             4761 |               3094650 |                  650 |              77.0725 |                 80.9664 |            66.06 |               81.22 |               53.54 |
+| school_name           | School Type   | Total Students   | Total School Budget   | Per Student Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
+|:----------------------|:--------------|:-----------------|:----------------------|:---------------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
+| Rodriguez High School | ['District']  | 3,999            | $2,547,363.00         | $637.00              |              76.8427 |                 80.7447 |            66.37 |               80.22 |               52.99 |
+| Figueroa High School  | ['District']  | 2,949            | $1,884,411.00         | $639.00              |              76.7118 |                 81.158  |            65.99 |               80.74 |               53.2  |
+| Huang High School     | ['District']  | 2,917            | $1,910,635.00         | $655.00              |              76.6294 |                 81.1827 |            65.68 |               81.32 |               53.51 |
+| Hernandez High School | ['District']  | 4,635            | $3,022,020.00         | $652.00              |              77.2898 |                 80.9344 |            66.75 |               80.86 |               53.53 |
+| Johnson High School   | ['District']  | 4,761            | $3,094,650.00         | $650.00              |              77.0725 |                 80.9664 |            66.06 |               81.22 |               53.54 |
 
 
 ## Math Scores by Grade
@@ -106,7 +105,6 @@
 
 
 
-
 ## School Size Results
 
 | School Size   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
@@ -115,6 +113,7 @@
 | 1500-2500     |              83.3592 |                 83.899  |          93.694  |             96.67   |             90.616  |
 | 2500-3500     |              76.8146 |                 81.029  |          66.66   |             80.4533 |             53.6667 |
 | >3500         |              77.0633 |                 80.9199 |          66.465  |             81.0575 |             53.675  |
+
 
 ## School Type Results
 
