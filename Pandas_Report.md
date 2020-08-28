@@ -31,7 +31,7 @@
 
 ## Top Performing Schools (By % Overall Passing)
 
-### Note that the `Top Performing Schools (By % Overall Passing)` results show that the best ranked schools are classified as `Charter` type schools.
+* Note that the `Top Performing Schools (By % Overall Passing)` results show that the best ranked schools are classified as `Charter` type schools.
 
 
 | school_name         | School Type   | Total Students   | Total School Budget   | Per Student Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
