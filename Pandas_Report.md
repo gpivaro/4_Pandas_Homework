@@ -1,7 +1,19 @@
 
 # Final Report for PyCitySchools Pandas Homework
 
+
+## Observable trends based on the data
+
+* 1-The performance of `Charter` schools **is significantly better** than the performance of `District` schools. This conclusion is based on the results show in `tables 3 and 9`. On the other hand, `Charter` schools present a lower performance as can be seen in `tables 4 and 9`.
+
+
+* 2-From `Table 8`, it is possible to conclude that the **school size** has a direct relation with the `% Overall Passing`. **Small** schools have a higher `% Overall Passing` while **medium** and **large** schools have a lower `% Overall Passing`.
+
+* 3-From `Table 7`, the amount invested per student is inverse proportional to the students' performance on the `% Overall Passing`. The highest overall passing scores are achieved by a school with a lower average spending ranges per student.
+
 ## District Summary
+
+#### Table 1 - District's key metrics
 
 
 |    |   Total Schools | Total Students   | Total Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
@@ -9,6 +21,8 @@
 |  0 |              15 | 39,170           | $24,649,428.00 |                78.99 |                   81.88 |            74.98 |               85.81 |               65.17 |
 
 ## School Summary
+
+#### Table 2 - Summary of key metrics about each school
 
 | school_name           | School Type   | Total Students   | Total School Budget   | Per Student Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
 |:----------------------|:--------------|:-----------------|:----------------------|:---------------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
@@ -31,7 +45,7 @@
 
 ## Top Performing Schools (By % Overall Passing)
 
-* Note that the `Top Performing Schools (By % Overall Passing)` results show that the best ranked schools are classified as `Charter` type schools.
+#### Table 3 - Top 5 performing schools based on % Overall Passing
 
 
 | school_name         | School Type   | Total Students   | Total School Budget   | Per Student Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
@@ -42,7 +56,11 @@
 | Wilson High School  | Charter       | 2,283            | $1,319,574.00         | $578.00              |              83.2742 |                 83.9895 |            93.87 |               96.54 |               90.58 |
 | Pena High School    | Charter       | 962              | $585,858.00           | $609.00              |              83.8399 |                 84.0447 |            94.59 |               95.95 |               90.54 |
 
+
+
 ## Bottom Performing Schools (By % Overall Passing)
+
+#### Table 4 - Bottom 5 performing schools based on % Overall Passing
 
 | school_name           | School Type   | Total Students   | Total School Budget   | Per Student Budget   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
 |:----------------------|:--------------|:-----------------|:----------------------|:---------------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
@@ -54,6 +72,8 @@
 
 
 ## Math Scores by Grade
+
+#### Table 5 - Average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school
 
 | school_name           |     9th |    10th |    11th |    12th |
 |:----------------------|--------:|--------:|--------:|--------:|
@@ -77,6 +97,8 @@
 
 ## Reading Score by Grade
 
+#### Table 6 - Average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school
+
 | school_name           |     9th |    10th |    11th |    12th |
 |:----------------------|--------:|--------:|--------:|--------:|
 | Bailey High School    | 81.3032 | 80.9072 | 80.9456 | 80.9125 |
@@ -98,6 +120,8 @@
 
 ## School Spending Results
 
+#### Table 7 - School performances based on average spending ranges (Per Student)
+
 | Spending Ranges Per Student   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
 |:------------------------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
 | < $591                        |              83.4554 |                 83.9338 |          93.46   |             96.61   |             90.3675 |
@@ -109,6 +133,8 @@
 
 ## School Size Results
 
+#### Table 8 - School performances based on school size
+
 | School Size        |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
 |:-------------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|
 | Small (<1500)      |              83.6649 |                 83.8921 |          93.4967 |             96.4467 |             90.1233 |
@@ -116,6 +142,8 @@
 | Large (>3000)      |              77.0633 |                 80.9199 |          66.465  |             81.0575 |             53.675  |
 
 ## School Type Results
+
+#### Table 9 - School performances based on school size
 
 | School Type   |   Average Math Score |   Average Reading Score |   % Passing Math |   % Passing Reading |   % Overall Passing |
 |:--------------|---------------------:|------------------------:|-----------------:|--------------------:|--------------------:|

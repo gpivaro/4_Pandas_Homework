@@ -11,6 +11,12 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Your final report should include each of the following:
 
+As final considerations:
+
+A written description of at least two observable trends based on the data is available at 
+[PyCitySchools Report](./Pandas_Report.md)
+
+
 ### District Summary
 
 * Create a high level snapshot (in table form) of the district's key metrics, including:
@@ -80,8 +86,3 @@ Your final report should include each of the following:
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-As final considerations:
-
-* Use the pandas library and Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of at least two observable trends based on the data.
