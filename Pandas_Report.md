@@ -4,9 +4,8 @@
 
 ## Observable trends based on the data
 
-* 1-The performance of `Charter` schools **is significantly better** than the performance of `District` schools. This conclusion is based on the results show in `tables 3 and 9`. On the other hand, `District` schools present a lower performance as can be seen in `tables [4] (./Pandas_Report.md) and [9] (./Pandas_Report.md#school-type-results)
+* 1-The performance of `Charter` schools **is significantly better** than the performance of `District` schools. This conclusion is based on the results show in `tables 3 and 9`. On the other hand, `District` schools present a lower performance as can be seen in `tables 4 and 9`.
 
-[Here] (./Pandas_Report.md#table-8---school-performances-based-on-school-size)
 
 * 2-From `Table 8`, it is possible to conclude that the **school size** has a direct relation with the `% Overall Passing`. **Small** schools have a higher `% Overall Passing` while **medium** and **large** schools have a lower `% Overall Passing`.
 
