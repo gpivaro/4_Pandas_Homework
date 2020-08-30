@@ -2,24 +2,20 @@
 
 ## Rice University Data Analytics and Visualization Boot Camp 2020
 
+This repository contains the following scenario:
 
 ## PyCitySchools
 
-In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
+In this notebook, we analyze the district-wide standardized test results. The dataset gives access to every student's math and reading scores, as well as various information on the schools they attend. By using Pandas, we aggregate the data and showcase obvious trends in school performance.
 
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
-
-Your final report should include each of the following:
-
-As final considerations:
-
-A written description of at least two observable trends based on the data is available at 
+A written description of three observable trends based on the data is available at 
 [PyCitySchools Report](./Pandas_Report.md)
 
+The notebook includes each of the following:
 
 ### District Summary
 
-* Create a high level snapshot (in table form) of the district's key metrics, including:
+* A table with the district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
@@ -31,7 +27,7 @@ A written description of at least two observable trends based on the data is ava
 
 ### School Summary
 
-* Create an overview table that summarizes key metrics about each school, including:
+* A table with summary key metrics about each school, including:
   * School Name
   * School Type
   * Total Students
@@ -45,7 +41,7 @@ A written description of at least two observable trends based on the data is ava
 
 ### Top Performing Schools (By % Overall Passing)
 
-* Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
+* A table with the top 5 performing schools based on % Overall Passing, including:
   * School Name
   * School Type
   * Total Students
@@ -59,19 +55,19 @@ A written description of at least two observable trends based on the data is ava
 
 ### Bottom Performing Schools (By % Overall Passing)
 
-* Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+* A table with the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 ### Math Scores by Grade\*\*
 
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* A table with the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Reading Scores by Grade
 
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* A table with the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ### Scores by School Spending
 
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+* A table that breaks down school performances based on average Spending Ranges (Per Student), including:
   * Average Math Score
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
@@ -80,9 +76,9 @@ A written description of at least two observable trends based on the data is ava
 
 ### Scores by School Size
 
-* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+* A table that breaks down school performances based on an approximation of school size (Small, Medium, Large).
 
 ### Scores by School Type
 
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+* A table that breaks down school performances based on school type (Charter vs. District).
 
