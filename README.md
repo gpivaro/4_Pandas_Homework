@@ -11,7 +11,7 @@ In this notebook, we analyze the district-wide standardized test results. The da
 A written description of three observable trends based on the data is available at 
 [PyCitySchools Report](./Pandas_Report.md)
 
-The notebook includes each of the following:
+The [notebook](./PyCitySchools.ipynb) includes each of the following:
 
 ### District Summary
 
